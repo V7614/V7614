@@ -1,19 +1,19 @@
 # 👋 Hi there!
 
 Welcome to my GitHub profile!  
-I’m **Vincent "V7614"**, a Python hobbyist who makes fun and useful tools — mostly for learning and sharing.
+I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in Python — mostly for learning and sharing.
 
 ---
 
 ## 🛠️ My Projects
 
-### 🔢 [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)
-A text-based calculator built in Python.  
+### 1. 🔢 [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)
+A console-based calculator built in Python.  
 Currently in early development (Alpha), so it's console-only for now — but a GUI version is coming in future versions!
 
 📦 Versions follow Semantic Versioning
 
-> 🧠 *Learn more about PyCalc and its roadmap [here](https://github.com/V7614/V7614-PyCalc)!*
+> 🧠 *Learn more about PyCalc [here](https://github.com/V7614/V7614-PyCalc)!*
 
 ---
 

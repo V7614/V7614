@@ -33,4 +33,5 @@ PyInstaller is a bundling software for packaging Python files.
 ---
 
 > 💬 " Don't let anything stop you from doing what you like and if it is a good thing"
+
 This above isn't an actual quote. I just changed an already existing one.

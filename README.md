@@ -9,9 +9,9 @@ I’m **Vincent "V7614"**, a Python hobbyist who makes fun and useful tools — 
 
 ### 🔢 [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)
 A text-based calculator built in Python.  
-Currently in early development (Alpha), so it's console-only for now — but a GUI version is coming in future versions like **Legacy** and **Standard**!
+Currently in early development (Alpha), so it's console-only for now — but a GUI version is coming in future versions!
 
-📦 Versions follow Semantic Versioning (`Classic`, `Alpha`, `Beta`, etc.)
+📦 Versions follow Semantic Versioning
 
 > 🧠 *Learn more about PyCalc and its roadmap [here](https://github.com/V7614/V7614-PyCalc)!*
 

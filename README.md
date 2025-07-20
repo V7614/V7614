@@ -3,7 +3,7 @@ Welcome to my profile! I am Vincent "V7614". You can call me V7614 (my GitHub us
 
 ## 🛠️ My Projects
 ### 1. V7614 PyCalc
-V7614 PyCalc is a calculator program written with Python that is still in development so it doesn't have a GUI. Technically, it is currently a console-based calculator... [Learn more about V7614 PyCalc here!]{https://github.com/V7614/V7614-PyCalc}
+V7614 PyCalc is a calculator program written with Python that is still in development so it doesn't have a GUI. Technically, it is currently a console-based calculator... [Learn more about V7614 PyCalc here!](https://github.com/V7614/V7614-PyCalc)
 
 ---
 

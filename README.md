@@ -32,9 +32,10 @@ Currently in early development (Alpha), so it's console-only for now — but a G
 
 ## 🌐 My Socials
 
-- 🎥 [YouTube: @v7614yt](https://youtube.com/@v7614yt)  
+- 🎥 [Tech YouTube Channel: @V7614TechYT](https://youtube.com/@V7614TechYT)  
 - 🟣 [Cocrea Profile](https://cocrea.world/@v7614)  
 - 🎮 [Itch.io (currently down)](https://v7614.itch.io)
+- That's all
 
 ---
 
@@ -43,9 +44,6 @@ Currently in early development (Alpha), so it's console-only for now — but a G
 📧 Email: `message.v7614@outlook.com`
 
 ---
-
-> 💬 “Don't let anything stop you from doing what you like — especially if it’s a good thing.”  
-> *(A modified quote I believe in)*
 
 ---
 

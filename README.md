@@ -10,7 +10,6 @@ I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in 
 
 ## 🛠️ My Projects
 
-
 <p align="left">
   <a href="https://github.com/V7614/V7614-PyCalc">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V7614&repo=V7614-PyCalc&theme=transparent&hide_border=true" />
@@ -47,12 +46,6 @@ Currently in early development, so it's console-only for now — but a GUI versi
 - 🟣 [Cocrea Profile](https://cocrea.world/@v7614)
 - 🎮 [Itch.io (currently down)](https://v7614.itch.io)
 - That's all
-
----
-
-## 📫 Contact Me
-
-📧 Email: `message.v7614@outlook.com`
 
 ---
 

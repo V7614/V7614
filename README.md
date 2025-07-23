@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in Python — mostly for learning and sharing.
 <p align="center">
   <a href="https://www.youtube.com/@V7614TechYT"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="mailto:message.v7614@outlook.com"><img width="32px" alt="Outlook" title="Contact Me via E-mail" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_256px.png"/></a>
 </p>
 ---
 

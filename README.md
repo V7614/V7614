@@ -7,9 +7,18 @@ I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in 
 
 ## 🛠️ My Projects
 
-### 1. 🔢 [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)
+
+<p align="left">
+  <a href="https://github.com/V7614/V7614-PyCalc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V7614&repo=V7614-PyCalc&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+### Project Information
+
+**1. [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)**
 A console-based calculator built in Python.  
-Currently in early development (Alpha), so it's console-only for now — but a GUI version is coming in future versions!
+Currently in early development, so it's console-only for now — but a GUI version is coming in future versions!
 
 📦 Versions follow Semantic Versioning
 

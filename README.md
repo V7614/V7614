@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!  
 I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in Python — mostly for learning and sharing.
-
+<p align="center">
+  <a href="https://www.youtube.com/@V7614TechYT"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+</p>
 ---
 
 ## 🛠️ My Projects

@@ -18,13 +18,13 @@ I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in 
 
 ### Project Information
 
-**1. [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)**
+**1. [V7614 PyCalc](https://github.com/V7614/V7614-PyCalc)** (Python)
 A console-based calculator built in Python.  
 Currently in early development, so it's console-only for now — but a GUI version is coming in future versions!
 
 📦 Versions follow Semantic Versioning and a 3 updates a week (Sunday, Wednesday, and Saturday) update cycle
 
-> 🧠 *Learn more about PyCalc [here](https://github.com/V7614/V7614-PyCalc)!*
+> 🧠 *Learn more about V7614 PyCalc [here](https://github.com/V7614/V7614-PyCalc)!*
 
 ---
 

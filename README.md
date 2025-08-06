@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 Welcome to my GitHub profile!  
-I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in Python — mostly for learning and sharing.
+I’m **Vincent "V7614"**, an early developer (A student, nothing is comercial but do not copy my stuff please!) who makes fun and useful tools in Python — mostly for learning and sharing.
 <p align="center">
   <a href="https://www.youtube.com/@V7614TechYT"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   <a href="mailto:message.v7614@outlook.com"><img width="32px" alt="Outlook" title="Contact Me via E-mail" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_256px.png"/></a>
@@ -13,7 +13,7 @@ I’m **Vincent "V7614"**, an early developer who makes fun and useful tools in 
 **From now on, all of my projects will be on V7614 Tech Team**
 
 <p align="left">
-  <a href="https://github.com/V7614/V7614-PyCalc">
+  <a href="https://github.com/V7614-Tech/V7614-PyCalc">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=V7614-Tech-Team&repo=V7614-PyCalc&theme=transparent&hide_border=true" />
   </a>
 </p>

@@ -46,7 +46,6 @@ Currently in early development, so it's console-only for now — but a GUI versi
 ## 🌐 My Other Socials
   
 - 🟣 [Cocrea Profile](https://cocrea.world/@v7614)
-- 🎮 [Itch.io (currently down)](https://v7614.itch.io)
 - That's all
 
 ---

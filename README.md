@@ -23,7 +23,7 @@ My first project that was published here on GitHub! It used to be here on this p
 
 This is a tool which is basically a shortcut to the Force shutdown command in Windows if the computer won't shut down properly from the start menu or anywhere else normally. Can also be used to restart Explorer.
 
-**3. (Active) [Useful Legacy Windows NT Apps (ULWNTA-ISO)](https://github.com/V7614/ULWNTA-ISO)
+**3. (Active) [Useful Legacy Windows NT Apps (ULWNTA-ISO)](https://github.com/V7614/ULWNTA-ISO)**
 
 A simple Disc Image files with a few apps for an old Windows NT operating system like Windows 7 and XP
 
@@ -63,7 +63,7 @@ An Indonesian translation of Pokémon FireRed & LeafGreen based on pret/firered.
 
 An Indonesian translation of Pokémon Emerald based on pret/pokeemerald.
 
-**13. V7614 Calculator (V7614-Calc)
+**13. V7614 Calculator (V7614-Calc)**
 
 A major rewrite of V7614 PyCalc that aims to fix bugs and be more complete overall over it's predecessor.
 

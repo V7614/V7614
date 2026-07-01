@@ -63,7 +63,7 @@ An Indonesian translation of Pokémon FireRed & LeafGreen based on pret/firered.
 
 An Indonesian translation of Pokémon Emerald based on pret/pokeemerald.
 
-**13. V7614 Calculator (V7614-Calc)**
+**13. V7614 Calculator (V7614-Calc)** (Python, C, Powershell, and Arduino Uno)
 
 A major rewrite of V7614 PyCalc that aims to fix bugs and be more complete overall over it's predecessor.
 

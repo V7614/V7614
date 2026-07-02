@@ -14,58 +14,88 @@ I’m **Vincent "V7614"**, an early developer (A student, nothing is commercial 
 
 ## 🛠️ My Projects
 
-**1. (Discontinued) [V7614 PyCalc (V7614-PyCalc)](https://github.com/V7614Tech/V7614-PyCalc)** (Python)
+### Currently Active:
+
+These are sorted by release order.
+
+**1. [Useful Legacy Windows NT Apps (ULWNTA-ISO)](https://github.com/V7614/ULWNTA-ISO)**
+
+A simple Disc Image files with a few apps for an old Windows NT operating system like Windows 7 and XP
+
+### Currently Work In Progress Projects (Once finished, these will move up into Currently Active):
+
+These are sorted by when they were planned.
+
+**1. [Pokémon Merah & Biru (pokered-IDN)](https://github.com/PokeIDNTranslate/pokered-IDN)**
+
+An Indonesian translation of Pokémon Red and Blue based on [pret/pokered](https://github.com/pret/pokered).
+
+**2. [Pokémon Red & Blue 2001 (pokered-2001)](https://github.com/V7614/pokered-2001)**
+
+Is a fork aiming to be a "What if? Pokémon Red & Blue was released in 2001" merging [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc), [dannye/pokered-crysaudio](https://github.com/dannye/pokered-crysaudio), & [dannye/pokered-gen-2-gfx](https://github.com/dannye/pokered-gen-2-gfx), along with a reorchestration of the Gen 1 music to use the full potential of Crystal's sound engine while being more faithful than the Gen 2 Kanto Soudtracks. 
+
+### Discontinued Projects:
+
+These are sorted by release order.
+
+**1. [V7614 PyCalc (V7614-PyCalc)](https://github.com/V7614Tech/V7614-PyCalc)** (Python)
 
 A console-based calculator built in Python, now discontinued.
 My first project that was published here on GitHub! It used to be here on this profile before I moved it. It's code is a mess, so it's currently going through a rewrite as VCalc or V7614 Calc.
 
-**2. (Active) [WinKill (WinKill)](https://github.com/V7614Tech/WinKill)** (Batch & PowerShell)
+**2. [WinKill (WinKill)](https://github.com/V7614Tech/WinKill)** (Batch & PowerShell)
 
 This is a tool which is basically a shortcut to the Force shutdown command in Windows if the computer won't shut down properly from the start menu or anywhere else normally. Can also be used to restart Explorer.
 
-**3. (Active) [Useful Legacy Windows NT Apps (ULWNTA-ISO)](https://github.com/V7614/ULWNTA-ISO)**
+### Currently Planned Projects (Could proceed to Work In Progress or discarded):
 
-A simple Disc Image files with a few apps for an old Windows NT operating system like Windows 7 and XP
+These are sorted by priority/possibility.
 
-**4. (Work In Progress) [Pokémon Merah & Biru (pokered-IDN)](https://github.com/PITG/pokered-IDN)** (Game Boy Assembly)
+**1. Pokémon Merah & Biru+**
 
-An Indonesian Translation of the original worldwide releases, Pokémon Red and Blue based on [pret/pokered](https://github.com/pret/pokered) being mostly faithful with the translation.
+A fork of [PokeIDNTranslate/pokered-IDN](https://github.com/PokeIDNTranslate/pokered-IDN) (By me) with QoL tweaks added.
 
-**5. (Planned) Pokémon Merah & Biru+ (pokered-IDN-Plus)**
-
-Currently a placeholder, but will be a fork of the base [PITG/pokered-IDN](https://github.com/PITG/pokered-IDN) but with added Quality of Life and Bug Fixes.
-
-**6. (Work In Progress) [Pokémon Red & Blue 2001 (pokered-2001)](https://github.com/V7614/pokered-2001)** (Game Boy Assembly)
-
-Is a fork aiming to be a "What if? Pokémon Red & Blue was released in 2001" merging [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc), [dannye/pokered-crysaudio](https://github.com/dannye/pokered-crysaudio), & [dannye/pokered-gen-2-gfx](https://github.com/dannye/pokered-gen-2-gfx), along with a reorchestration of the Gen 1 music to use the full potential of Crystal's sound engine while being more faithful than the Gen 2 Kanto Soudtracks. 
-
-**7. (Planned) Pokémon Kuning: Edisi Pikachu Spesial (pokeyellow-IDN)** (Game Boy Assembly)
+**2. Pokémon Kuning: Edisi Pikachu Spesial**
 
 An Indonesian translation of Pokémon Yellow: Special Pikachu Edition based on [pret/pokeyellow](https://github.com/pret/pokeyellow).
 
-**8. (Planned) Pokémon Emas & Perak (pokegold-IDN)** (Game Boy Color Assembly)
+**3. Pokémon Emas & Perak**
 
-An Indonesian translation of Pokémon Gold & Silver based on pret/pokegold.
+An Indonesian translation of Pokémon Gold & Silver based on [pret/pokegold](https://github.com/pret/pokegold).
 
-**9. (Planned) Pokémon Kristal (pokecrystal-IDN)** (Game Boy Color Assembly)
+**4. Pokémon Kristal**
 
-An Indonesian translation of Pokémon Crystal based on pret/pokecrystal.
+An Indonesian translation of Pokémon Crystal based on [pret/pokecrystal](https://github.com/pret/pokecrystal).
 
-**10. (Planned) Pokémon Rubi & Safir (pokeruby-IDN)** (Game Boy Advance Assembly and Game Boy Advance C)
+**5. Pokémon Rubi & Safir**
 
-An Indonesian translation of Pokémon Ruby & Sapphire based on pret/pokeruby.
+An Indonesian translation of Pokémon Ruby & Sapphire based on [pret/pokeruby](https://github.com/pret/pokeruby).
 
-**11. (Planned) Pokemon Merah Api & Hijau Daun (pokefirered-IDN)** (Game Boy Advance Assembly and Game Boy Advance C)
+**6. Pokemon Merah Api & Hijau Daun**
 
-An Indonesian translation of Pokémon FireRed & LeafGreen based on pret/firered.
+An Indonesian translation of Pokémon FireRed & LeafGreen based on [pret/firered](https://github.com/pret/pokefirered).
 
-**12. Pokémon Zamrud (pokeemerald-IDN)** (Game Boy Advance Assembly and Game Boy Advance C)
+**7. Pokémon Zamrud**
 
-An Indonesian translation of Pokémon Emerald based on pret/pokeemerald.
+An Indonesian translation of Pokémon Emerald based on [pret/pokeemerald](https://github.com/pret/pokeemerald).
 
-**13. V7614 Calculator (V7614-Calc)** (Python, C, Powershell, and Arduino Uno)
+**8. V7614 Calculator** (Python, C, Powershell, and Arduino Uno)
 
-A major rewrite of V7614 PyCalc that aims to fix bugs and be more complete overall over it's predecessor.
+A major rewrite of V7614 PyCalc that aims to fix bugs and be more complete overall over it's predecessor. Will be available in multiple languages: Python, C, Powershell, & Arduino Uno, but only Python will be developed at the beginning of the lifecycle.
+
+**9. (Improbable for the near future) Pokémon Berlian & Mutiara**
+
+An Indonesian translation of Pokémon Diamond & Pearl based on [pret/pokediamond](https://github.com/pret/pokediamond). Currently not possible because the decompilation is still work in progress.
+
+**10. (Improbable for the near future) Pokémon Platinum**
+
+An Indonesian translation of Pokémon Platinum based on [pret/pokeplatinum](https://github.com/pret/pokeplatinum). Currently not possible because the decompilation is still work in progress.
+
+**11. (Improbable for the near future) Pokémon Hati Emas & Jiwa Perak**
+
+An Indonesian translation of Pokémon Heart Gold & Soul Silver based on [pret/poked](https://github.com/pret/pokediamond). Currently not possible because the decompilation is still work in progress.
+
+(For Pokémon Hitam & Putih and Pokémon Hitam 2 & Putih 2 are currently not possible because the decompilation doesn't exist yet.)
 
 ## Collaboration Projects
 
